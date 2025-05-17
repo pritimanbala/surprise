@@ -1,14 +1,14 @@
 const messages = [
-    "Tui ki sure?",
-    "Sotti sure??",
+    "Are you sure?",
+    "Really sure??",
     "Are you positive?",
     "Pookie please...",
-    "Just ekbar vebe dekh!",
-    "Jodi tui naa bolis, Tahole khub kharap pabo...",
-    "Ami sotti kharap Pabo...",
-    "Ami sotti khub khub kharap pabo...",
-    "Accha thikach ar jiggasa korbo na...",
-    "Are mojak korchilam, please yes bole de! ❤️"
+    "Please think once!",
+    "If you say no, then I'll get very sad...",
+    "Ill really get very sad...",
+    "Ill really really get very sad...",
+    "Okay ill not ask you again...",
+    "Aree I was joking, but please say yes! ❤️"
 ];
 
 let messageIndex = 0;
